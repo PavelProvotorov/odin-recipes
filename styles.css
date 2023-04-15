@@ -1,0 +1,13 @@
+body {
+    background-color: #dbd6ca;
+}
+
+div {
+    color: black;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
