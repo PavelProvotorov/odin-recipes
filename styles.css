@@ -33,6 +33,10 @@ div.main{
     padding-left: 10px;
   }
 
+.main img{
+    border-radius: 10px;
+}
+
 body {
     background-color: whitesmoke;
 }
