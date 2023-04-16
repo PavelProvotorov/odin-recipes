@@ -15,6 +15,7 @@ div.sidenav {
     text-decoration: none;
     display: block;
     color: #97858a;
+    font-weight: bolder;
     font-size: 25px;
 }
 
@@ -39,4 +40,23 @@ div.main{
 
 body {
     background-color: whitesmoke;
+}
+
+h1 {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+p {
+    font-size: 20px;
+    font-weight: normal;
+}
+
+li {
+    font-size: 20px;
+    font-weight: normal;
 }
