@@ -5,7 +5,7 @@ div.sidenav {
     z-index: 1;
     top: 0;
     left: 0;
-    background-color: #58485e;
+    background-color: #80436b;
     overflow-x: hidden;
     padding-top: 20px;
   }
@@ -14,13 +14,13 @@ div.sidenav {
     padding: 6px 8px 6px 16px;
     text-decoration: none;
     display: block;
-    color: #97858a;
+    color: #f6c4ba;
     font-weight: bolder;
     font-size: 25px;
 }
 
 .sidenav a:hover {
-    color: #f1f1f1;
+    color: whitesmoke;
   }
 
 div.main{
