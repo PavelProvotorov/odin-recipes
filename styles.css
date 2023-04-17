@@ -35,6 +35,12 @@ div.main{
   }
 
 .main img{
+    min-width: 320px;
+    min-height: 240px;
+    max-width: 640px;
+    max-height: 480px;
+    height: auto;
+    width: auto;
     border-radius: 10px;
 }
 
