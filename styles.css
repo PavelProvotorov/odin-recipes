@@ -1,6 +1,6 @@
 div.sidenav {
     height: 100%;
-    width: 120px;
+    width: 100px;
     position: fixed;
     z-index: 1;
     top: 0;
@@ -11,12 +11,13 @@ div.sidenav {
   }
 
 .sidenav a{
-    padding: 6px 8px 6px 16px;
+    padding: 8px 0px 8px 0px;
     text-decoration: none;
     display: block;
     color: #f6c4ba;
+    text-align: center;
     font-weight: bolder;
-    font-size: 25px;
+    font-size: 48px;
 }
 
 .sidenav a:hover {
@@ -26,7 +27,7 @@ div.sidenav {
 div.main{
     color: black;
     background-color: white;
-    margin-left: 120px;
+    margin-left: 100px;
     border-radius: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
