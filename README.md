@@ -1,5 +1,5 @@
 # odin-recipes
-A simple recipes page created using intermediate HTML
+A simple recipes page
 
 Github Pages: https://pavelprovotorov.github.io/odin-recipes/
 
