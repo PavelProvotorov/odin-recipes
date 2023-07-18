@@ -1,0 +1,121 @@
+[33mcommit b0a982f9d1bdfb902b36a94dec02b216859f1981[m[33m ([m[1;36mHEAD -> [m[1;32mui[m[33m, [m[1;31morigin/ui[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Logodum <15616120+PavelProvotorov@users.noreply.github.com>
+Date:   Tue Apr 25 20:23:15 2023 +0300
+
+    Added Google Icons
+
+[33mcommit ca01e3c9abe13bcf0fd97f85fa9667e2cd339d4c[m
+Author: Logodum <15616120+PavelProvotorov@user.noreply.github.com>
+Date:   Mon Apr 17 19:23:08 2023 +0300
+
+    Rebuild Pages
+
+[33mcommit dd1c16b75d025a3bb5599b5d5e7e10bec6739b0c[m
+Author: Logodum <15616120+PavelProvotorov@user.noreply.github.com>
+Date:   Mon Apr 17 19:15:04 2023 +0300
+
+    Rebuild pages
+
+[33mcommit 9e3456902e2c3195fd301462cd3d851d2557df53[m
+Merge: 40b8f9f a90a39f
+Author: Logodum <15616120+PavelProvotorov@user.noreply.github.com>
+Date:   Mon Apr 17 19:11:49 2023 +0300
+
+    Merge branch 'main' of github.com:PavelProvotorov/odin-recipes
+
+[33mcommit 40b8f9fa5ceacc84ef8bd42ad6d6240221b865a0[m
+Author: Logodum <15616120+PavelProvotorov@user.noreply.github.com>
+Date:   Mon Apr 17 19:10:15 2023 +0300
+
+    Moved img style to CSS
+
+[33mcommit 3602d40b7e567b37744e585ebe09e714c9e396c7[m
+Author: Logodum <15616120+PavelProvotorov@user.noreply.github.com>
+Date:   Mon Apr 17 19:02:29 2023 +0300
+
+    Adjusted palette
+
+[33mcommit 9fe03e23e89d901d2f9371d3bf9a9983e6353a6b[m
+Author: Logodum <15616120+PavelProvotorov@user.noreply.github.com>
+Date:   Mon Apr 17 18:43:51 2023 +0300
+
+    Applied border-box sizing
+
+[33mcommit a90a39fee192440f21410a272126086bb66f0dde[m
+Author: PavelProvotorov <15616120+PavelProvotorov@users.noreply.github.com>
+Date:   Sun Apr 16 20:31:46 2023 +0300
+
+    Update README.md
+
+[33mcommit b8a69b1e813892dff448f27c1e30128fcc7bbd3d[m
+Author: Logodum <15616120+PavelProvotorov@user.noreply.github.com>
+Date:   Sun Apr 16 19:09:22 2023 +0300
+
+    rebuild pages
+
+[33mcommit 02b347d10e0e46cac707b40ce105ea70774511c5[m
+Author: Logodum <15616120+PavelProvotorov@user.noreply.github.com>
+Date:   Sun Apr 16 19:01:47 2023 +0300
+
+    Modified font weight & size[C
+
+[33mcommit 253aeb9db4ed3842581ae3ca9f05107a64f8ae0b[m
+Author: Logodum <15616120+PavelProvotorov@user.noreply.github.com>
+Date:   Sun Apr 16 18:28:18 2023 +0300
+
+    Added About page & missing sidebar
+    
+    - Added about page
+    - Added missing sidebar on pages other than the main one
+    - Rounded images on recipe pages
+
+[33mcommit aed9bf1d30c4041ac882bf74e7fa20da057490cf[m
+Author: Logodum <15616120+PavelProvotorov@user.noreply.github.com>
+Date:   Sun Apr 16 17:59:55 2023 +0300
+
+    Introduced sidebar
+    
+    - Added a fixed sidebar on the left side
+    - Added .sidenav as the sidebar class
+    - Added .main as the main page class
+    - Adjusted colour scheme
+
+[33mcommit 95302c11e9bbee0f2bb8afe1e0ae7cdce7473681[m
+Author: Logodum <15616120+PavelProvotorov@user.noreply.github.com>
+Date:   Sat Apr 15 14:52:08 2023 +0300
+
+    Added placeholder CSS file
+
+[33mcommit be70f16946d51b275c8b6a0b5fb866a366dda8b4[m
+Author: Logodum <15616120+PavelProvotorov@user.noreply.github.com>
+Date:   Thu Apr 13 19:54:55 2023 +0300
+
+    Classic Lasagna recipe added
+
+[33mcommit 0e335a3b456bfdb2351426b15159421c37f55654[m
+Author: Logodum <15616120+PavelProvotorov@user.noreply.github.com>
+Date:   Thu Apr 13 09:32:19 2023 +0300
+
+    Mashed Potatoes recipe page
+
+[33mcommit 0d1edc2d43917cb6d98e6c5f0622a8a9d392ae7c[m
+Author: Logodum <15616120+PavelProvotorov@user.noreply.github.com>
+Date:   Thu Apr 13 08:53:29 2023 +0300
+
+    Basic recipe page
+    
+    - Added carbonara.html as example recipe page
+    - Added carbonara.jpg as assets
+    - Slighltly modified index.html
+
+[33mcommit 808287412ecd66e0ff1ed4a8d9fd5159df8df1ab[m
+Author: Logodum <15616120+PavelProvotorov@user.noreply.github.com>
+Date:   Thu Apr 13 08:19:04 2023 +0300
+
+    Initial commit
+
+[33mcommit a2d2696291c41b257011dec4f5789385c2c154b5[m
+Author: PavelProvotorov <15616120+PavelProvotorov@users.noreply.github.com>
+Date:   Thu Apr 13 08:07:34 2023 +0300
+
+    Initial commit
